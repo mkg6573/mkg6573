@@ -1,31 +1,49 @@
-## Hi there 👋 I am Mohit..
+# 👋 Hi there, I'm Mohit Gupta!
 
-### About Me
-I'm Mohit Gupta, a Computer Science and Artificial Intelligence student at CSJMU with a strong interest in data science, machine learning, and problem-solving. I enjoy turning complex challenges into clean, efficient code, and I'm constantly exploring new technologies to enhance my skills. My focus areas include data analysis, algorithm design, and AI-driven solutions. I'm actively working on projects that combine theory with real-world impact, and I'm always open to collaboration and learning from the open-source community.
+### 💻 About Me
+I'm a **Computer Science & Artificial Intelligence student** at CSJMU with a passion for **Data Science, Machine Learning, and AI-driven solutions**.  
+I enjoy **turning complex challenges into clean, efficient code** and exploring **new technologies** to enhance my skills.  
 
-## My Github stats
+**Focus areas:**
+- Data Analysis & Visualization 📊  
+- Algorithm Design & Problem Solving 🧩  
+- Machine Learning & AI-driven Projects 🤖  
+- Real-world applications and open-source contributions 🌐  
 
-![Github](https://github-readme-stats.vercel.app/api?username=mkg6573)
+I love collaborating on projects and learning from the open-source community.  
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mkg6573)
+---
 
-![Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mkg6573)
+### 📈 My GitHub Stats
 
-- 🌱 I’m currently learning DataScience
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkg6573&show_icons=true&theme=radical)  
 
-<!--
-**mkg6573/mkg6573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkg6573&theme=radical)  
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkg6573&layout=compact&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🌱 Currently Learning
+- Advanced Data Science Techniques  
+- Machine Learning & Deep Learning Models  
+- Data Visualization & Dashboards  
 
+---
+
+### 🔭 Projects & Work
+- **Email Spam Classifier**: [Live Demo](https://mkg6573-email-spam-classifier-app-r0z58f.streamlit.app/) – Classify emails as spam or not spam with ML & Streamlit  
+- **IPL Data Analysis Dashboard**: [Streamlit App](https://mkg6573-ipl-ipl-0fd6uy.streamlit.app/)  
+- **Data Visualization Dashboard**: [Streamlit App](https://ebzmfpjwiroxy52zzmgimz.streamlit.app/)  
+
+---
+
+### 🤝 Connect With Me
+- GitHub: [https://github.com/mkg6573](https://github.com/mkg6573)  
+- Email: [mohitgupta6573@gmail.com](mailto:mohitgupta6573@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/mohitgupta6573](https://www.linkedin.com/in/mohitgupta6573)  
+
+---
+
+### ⚡ Fun Fact
+I love solving problems with **algorithms, data, and AI**, and I’m constantly challenging myself to **learn something new every day**!
