@@ -32,16 +32,16 @@ I love collaborating on projects and learning from the open-source community.
 ---
 
 ### 🔭 Projects & Work
-- **Email Spam Classifier**: [Live Demo](https://mkg6573-email-spam-classifier-app-r0z58f.streamlit.app/) – Classify emails as spam or not spam with ML & Streamlit  
-- **IPL Data Analysis Dashboard**: [Streamlit App](https://mkg6573-ipl-ipl-0fd6uy.streamlit.app/)  
-- **Data Visualization Dashboard**: [Streamlit App](https://ebzmfpjwiroxy52zzmgimz.streamlit.app/)  
+- 📨 **Email Spam Classifier**: [Live Demo](https://mkg6573-email-spam-classifier-app-r0z58f.streamlit.app/) – Classify emails as spam or not spam with ML & Streamlit  
+- 📊 **IPL Data Analysis Dashboard**: [Streamlit App](https://mkg6573-ipl-ipl-0fd6uy.streamlit.app/)  
+- 📈 **Data Visualization Dashboard**: [Streamlit App](https://ebzmfpjwiroxy52zzmgimz.streamlit.app/)  
 
 ---
 
 ### 🤝 Connect With Me
-- GitHub: [https://github.com/mkg6573](https://github.com/mkg6573)  
-- Email: [mohitgupta6573@gmail.com](mailto:mohitgupta6573@gmail.com)  
-- LinkedIn: [https://www.linkedin.com/in/mohitgupta6573](https://www.linkedin.com/in/mohitgupta6573)  
+- 🐙 GitHub: [@mkg6573](https://github.com/mkg6573)  
+- 📧 Email: [mohitgupta6573@gmail.com](mailto:mohitgupta6573@gmail.com)  
+- 💼 LinkedIn: [@mohitgupta6573](https://www.linkedin.com/in/mohitgupta6573)
 
 ---
 
