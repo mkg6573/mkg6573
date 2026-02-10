@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mohit Gupta!
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=24&pause=1000&color=F7C25D&background=FFFBFA00&vCenter=true&lines=Hello+Everyone!!%2C+This+is+Mohit+Gupta.;Welcome+to+my+Github+Page..)](https://git.io/typing-svg)
 
 ### 💻 About Me
 I'm a **Computer Science & Artificial Intelligence student** at CSJMU with a passion for **Data Science, Machine Learning, and AI-driven solutions**.  
