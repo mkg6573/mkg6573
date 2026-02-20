@@ -1,3 +1,6 @@
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=mkg6573&label=Profile%20views&color=0e75b6&style=flat)
 
 #  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=24&pause=1000&color=F7C25D&background=FFFBFA00&vCenter=true&lines=Hello+Everyone!!%2C+This+is+Mohit+Gupta.;Welcome+to+my+Github+Page..)](https://git.io/typing-svg)
 
@@ -44,10 +47,8 @@ I love collaborating on projects and learning from the open-source community.
 - 📧 Email: [mohitgupta6573@gmail.com](mailto:mohitgupta6573@gmail.com)  
 - 💼 LinkedIn: [@mohitgupta6573](https://www.linkedin.com/in/mohitgupta6573)
 
+
 ---
 
 ### ⚡ Fun Fact
 I love solving problems with **algorithms, data, and AI**, and I’m constantly challenging myself to **learn something new every day**!
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mkg6573&label=Profile%20views&color=0e75b6&style=flat" alt="mkg6573" /> 
-</p>
