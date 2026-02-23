@@ -20,11 +20,10 @@ I love collaborating on projects and learning from the open-source community.
 
 ### 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkg6573&show_icons=true&theme=radical)  
+<img align="center" width="100%" src="gh-space-shooter.webp" /> 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkg6573&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkg6573&layout=compact&theme=radical)  
 
 ---
 
