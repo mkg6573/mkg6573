@@ -48,6 +48,36 @@ I love collaborating on projects and learning from the open-source community.
 
 
 ---
+## 🚀 Tech Stack
 
+### 👨‍💻 Programming Languages
+- 💙 C++
+- 🐍 Python
+- 🗄️ SQL
+
+### 🧠 Core Concepts
+- 📊 Data Structures & Algorithms (DSA)
+
+### 📈 Data Science & Analytics
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization (Matplotlib, Plotly)
+
+### 🤖 Machine Learning
+- Supervised Learning  
+- Unsupervised Learning  
+- Model Evaluation & Optimization  
+
+### 🌐 Frameworks & Tools
+- ⚡ Streamlit  
+- 📦 NumPy  
+- 🐼 Pandas  
+
+### 🛠️ Other Tools
+- Git & GitHub  
+- Jupyter Notebook  
+- SQL Workbench
+
+---
 ### ⚡ Fun Fact
 I love solving problems with **algorithms, data, and AI**, and I’m constantly challenging myself to **learn something new every day**!
