@@ -1,7 +1,3 @@
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=mkg6573&label=Profile%20views&color=0e75b6&style=flat)
-
 #  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=24&pause=1000&color=F7C25D&background=FFFBFA00&vCenter=true&lines=Hello+Everyone!!%2C+This+is+Mohit+Gupta.;Welcome+to+my+Github+Page..)](https://git.io/typing-svg)
 
 ### 💻 About Me
