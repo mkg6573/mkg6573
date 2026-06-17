@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F875AA&height=200&section=header&text=Mohit%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
