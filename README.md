@@ -7,7 +7,6 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=1000&color=F875AA&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Building+intelligent+systems+that+actually+matter;%F0%9F%A7%A0+Fine-tuning+LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+NLP;%F0%9F%94%AC+Patent+Holder+%C2%B7+Published+Researcher+%C2%B7+AI+Engineer;%F0%9F%9A%80+From+raw+tokens+%E2%86%92+real-world+impact;%F0%9F%A4%96+if+%28problem%29+%7B+build_ai%28%29+%7D" alt="Typing SVG"/>
 
 <br/> -->
-#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=24&pause=1000&color=F7C25D&background=FFFBFA00&vCenter=true&lines=Hello+Everyone!!%2C+This+is+Mohit+Gupta.;Welcome+to+my+Github+Page..)](https://git.io/typing-svg)
 
 ### 💻 About Me
 I'm a **Computer Science & Artificial Intelligence student** at CSJMU with a passion for **Data Science, Machine Learning, and AI-driven solutions**.  
