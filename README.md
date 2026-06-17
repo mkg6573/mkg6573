@@ -83,6 +83,6 @@ I love collaborating on projects and learning from the open-source community.
 - Jupyter Notebook  
 - SQL Workbench
 
----
-### ⚡ Fun Fact
-I love solving problems with **algorithms, data, and AI**, and I’m constantly challenging myself to **learn something new every day**!
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F875AA&height=120&section=footer&text=Let's+build+something+amazing!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
