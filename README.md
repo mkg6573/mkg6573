@@ -1,10 +1,29 @@
 <!-- <div align="center"> -->
 
 <!-- HEADER BANNER -->
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F875AA&height=200&section=header&text=Mohit%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 
-### 💻 About Me
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+Year+CSE+AI+Student;400%2B+DSA+Problems+Solved;Building+in+Machine+Learning;Aspiring+Research+Author" alt="Typing SVG" />
+</a>
+
+<br/>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-gupta-605a5b2b1/)
+[![Email](https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitgupta6573@gmail.com)
+
+
+
+
+</div>
+---
+## 🧠 About Me
 I'm a **Computer Science & Artificial Intelligence student** at CSJMU with a passion for **Data Science, Machine Learning, and AI-driven solutions**.  
 I enjoy **turning complex challenges into clean, efficient code** and exploring **new technologies** to enhance my skills.  
 
